@@ -64,7 +64,7 @@ The Committee’s purview will include policy, procedural, and technical decisio
 2. *Public Comment*. Proposals are subject to a minimum fourteen (14) calendar days comment period prior to the Committee Meeting to consider the proposal. The comment period is open to anyone in the general public. The Committee will post the proposal to begin the comment period to the "developer", "user", and "announcement" electronic discussion groups.
 3. *Voting*. The Committee will hold a meeting to vote on the proposal no later than fourteen (14) calendar days after the end of the comment period. For the proposal to pass at a majority of the Members at the meeting must vote for passage.
 4. *Conflict of Interest*. To avoid conflict of interest questions Members and Library Authors are limited as to proposing and voting:
-    1. Members shall to introduce proposal for the Committee to consider.
+    1. Members shall not introduce proposal for the Committee to consider.
     2. Library Authors that introduce proposals shall not vote on proposals they introduce.
 
 ## 7: Voting
