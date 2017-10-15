@@ -38,7 +38,7 @@ The Committee’s purview will include policy, procedural, and technical decisio
 4. *No Confidence*. Library Authors may hold a vote of "no confidence" of the Committee at any time.
     1. A notice of intent to hold a no confidence vote must be posted to the Committee and "developer" electronic discussion groups by a Library Author.
     2. Upon public written endorsement, to the Committee or "developer" electronic discussion groups, of the intent by 10 of the Library Authors the intent will become effective.
-    3. Once effective the original announcer shall post a notice to the Committee and "developer" electronic discussion groups that a vote will be held within twenty one (21) calendar days of the notice.
+    3. Once effective the original announcer shall post a notice to the Committee and "developer" electronic discussion groups that a vote will be held within twenty-one (21) calendar days of the notice.
     4. To start the voting the original announcer will post a notice to the Committee and "developer" electronic discussion groups.
     5. Each Library Author gets one vote on the question of no confidence and passes with a majority of the votes.
     6. Upon passing all Members are removed from the Committee.
@@ -63,6 +63,9 @@ The Committee’s purview will include policy, procedural, and technical decisio
 1. *Notice*. Proposals to be considered by the Committee will be made by public posting to the Committee electronic discussion group.
 2. *Public Comment*. Proposals are subject to a minimum fourteen (14) calendar days comment period prior to the Committee Meeting to consider the proposal. The comment period is open to anyone in the general public. The Committee will post the proposal to begin the comment period to the "developer", "user", and "announcement" electronic discussion groups.
 3. *Voting*. The Committee will hold a meeting to vote on the proposal no later than fourteen (14) calendar days after the end of the comment period. For the proposal to pass at a majority of the Members at the meeting must vote for passage.
+4. *Conflict of Interest*. To avoid conflict of interest questions Members and Library Authors are limited as to proposing and voting:
+    1. Members shall to introduce proposal for the Committee to consider.
+    2. Library Authors that introduce proposals shall not vote on proposals they introduce.
 
 ## 7: Voting
 
